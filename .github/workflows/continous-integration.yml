@@ -28,6 +28,3 @@ jobs:
       - name: Lint with Pylint
         run: |
           make lint
-      - name: Test with Pytest
-        run: |
-          make test
