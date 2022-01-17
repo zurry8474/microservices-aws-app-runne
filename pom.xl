@@ -207,8 +207,8 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:.git</developerConnection>
+    <connection>scm:git:git@github.com:zurry8474/microservices-aws-app-runner.git.git</connection>
+    <developerConnection>scm:git:git@github.com:zurry8474/microservices-aws-app-runner.git.git</developerConnection>
     <tag>HEAD</tag>
     <url>https://github.com/zurry8474/microservices-aws-app-runner</url>
   </scm>
